@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import ListRepo from "./ListRepo";
+import ListRepo from "../component/ListRepo";
 
 const Profile = () => {
   const [data, setData] = useState({});
